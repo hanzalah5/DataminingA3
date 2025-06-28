@@ -1,6 +1,6 @@
-# DataminingA3
+# Datamining Project Core
 
-THIS IS THE EXPLAINATION OF HOW I HAVE CREATED AN ANOMOLY DETECTION MODEL FOR ASSIGNMENT # 3
+THIS IS THE EXPLAINATION OF HOW I HAVE CREATED AN ANOMOLY DETECTION MODEL
 
 
 Step 1: Obtain the PSM dataset from eBay for time series anomaly detection.
